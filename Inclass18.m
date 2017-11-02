@@ -53,7 +53,7 @@ y = randi(10,10,1);
 [is_sig,pval] = ttest2(x,y);
 %when ran, pval > 0.05, and not is_sig
 
-%B
+%B - Changing random number set, not range. 
 x = randi(9,10,1);
 y = randi(10,10,1);
 
