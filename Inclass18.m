@@ -1,4 +1,9 @@
 % In class 18
+%GB comments
+1. 100
+2. 100
+Overall: 100
+
 %Walter Frank Lenoir
 
 % Problem 1. In this directory, you will find the same image of yeast cells as you used
